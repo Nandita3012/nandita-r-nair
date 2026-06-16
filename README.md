@@ -1,6 +1,6 @@
 # Nandita R Nair
 
-## Aspiring Neuroscientist
+## Clinical Psychology Graduate Transitioning into Neuroscience Research
 I am an aspiring neuroscientist with a background in Clinical Psychology and specialized training in Neurophysiology, Neuro-Instrumentation, and Computational Neuroscience.
 My interests focus on understanding the neural basis of cognition, behavior, neuroplasticity, and neuropsychiatric disorders through computational and translational approaches.
 
