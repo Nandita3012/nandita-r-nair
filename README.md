@@ -44,5 +44,3 @@ My interests focus on understanding the neural basis of cognition, behavior, neu
 - Scientific Programming for Neuroscience
 
 This portfolio documents my transition from psychology to neuroscience through computational projects, literature reviews, neurophysiology notes, and neuroscience data analysis.
-
-This portfolio documents my transition from psychology to neuroscience through computational projects, literature reviews, neurophysiology notes, and neuroscience data analysis.
